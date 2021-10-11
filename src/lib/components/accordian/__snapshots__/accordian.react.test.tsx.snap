@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test snapshot for Accordian component 1`] = `
+<div
+  className="MuiPaper-root MuiAccordion-root Mui-expanded MuiAccordion-rounded MuiPaper-elevation0 MuiPaper-rounded"
+>
+  <div
+    aria-disabled={false}
+    aria-expanded={true}
+    className="MuiButtonBase-root MuiAccordionSummary-root sc-AxirZ hZiiBu Mui-expanded"
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    role="button"
+    tabIndex={0}
+  >
+    <div
+      className="MuiAccordionSummary-content Mui-expanded"
+    >
+      <div
+        className="sc-AxjAm fFIbso"
+        data-testid="accordian-title"
+      >
+        Accordian Title
+      </div>
+    </div>
+    <div
+      aria-disabled={false}
+      aria-hidden={true}
+      className="MuiButtonBase-root MuiIconButton-root MuiAccordionSummary-expandIcon Mui-expanded MuiIconButton-edgeEnd"
+      onBlur={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role={null}
+      tabIndex={null}
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div
+    className="MuiCollapse-container MuiCollapse-entered"
+    style={
+      Object {
+        "minHeight": "0px",
+      }
+    }
+  >
+    <div
+      className="MuiCollapse-wrapper"
+    >
+      <div
+        className="MuiCollapse-wrapperInner"
+      >
+        <div
+          role="region"
+        >
+          <div
+            className="MuiAccordionDetails-root sc-AxiKw dJsaFy"
+            data-testid="accordian-summary"
+          >
+            <div>
+              div element
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

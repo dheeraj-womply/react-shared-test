@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Milestone DOM elements are OK 1`] = `
+<div
+  className="sc-AxmLO hUQudX"
+>
+  <div
+    className="sc-AxjAm frIbEx"
+  >
+    <div
+      className="sc-AxirZ gSKChM"
+    >
+      <div
+        data-testid="leftArrow"
+        hidden={true}
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="sc-AxhCb kdDLex"
+    >
+      <div
+        className="sc-AxhUy cSFGTl"
+      >
+        Milestones complete:
+        <span
+          className="completed"
+        >
+           
+          1
+           
+        </span>
+        <span>
+          / 
+        </span>
+        <span>
+          9
+        </span>
+      </div>
+      <div
+        className="sc-AxgMl irssAP"
+      >
+        <div
+          className="milestones"
+          style={
+            Object {
+              "marginLeft": 0,
+            }
+          }
+        >
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Send a review request
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Reply to a review
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Save your credentials
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Turn on Auto Reply
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Send customer a message
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Turn on Customer Engagement
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Connect your customers
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Add your customer list
+          </div>
+          <div
+            className="milestone"
+            onClick={[Function]}
+          >
+            Verify your email address
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="sc-AxiKw dUMIKi"
+    >
+      <div
+        data-testid="rightArrow"
+        hidden={false}
+        onClick={[Function]}
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-AxheI jTGdqX"
+    style={
+      Object {
+        "background": "linear-gradient(to bottom, #fbda61 11%, #f76b1c 31%)",
+      }
+    }
+  >
+    <div
+      className="sc-Axmtr kHMEDI"
+    >
+      11
+      %
+    </div>
+  </div>
+</div>
+`;

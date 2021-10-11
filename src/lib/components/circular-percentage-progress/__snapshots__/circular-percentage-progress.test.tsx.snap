@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CircularPercentageProgress primary elements are OK 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-7"
+>
+  <div
+    className="MuiBox-root MuiBox-root-8"
+  >
+    <div
+      aria-valuenow={100}
+      className="MuiCircularProgress-root makeStyles-bottom-1 MuiCircularProgress-colorPrimary MuiCircularProgress-static"
+      role="progressbar"
+      style={
+        Object {
+          "height": 50,
+          "transform": "rotate(-90deg)",
+          "width": 50,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle MuiCircularProgress-circleStatic"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={19.5}
+          strokeWidth={5}
+          style={
+            Object {
+              "strokeDasharray": "122.522",
+              "strokeDashoffset": "0.000px",
+            }
+          }
+        />
+      </svg>
+    </div>
+    <div
+      aria-valuenow={25}
+      className="MuiCircularProgress-root makeStyles-top-2 MuiCircularProgress-colorPrimary MuiCircularProgress-static"
+      role="progressbar"
+      style={
+        Object {
+          "height": 50,
+          "transform": "rotate(-90deg)",
+          "width": 50,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle makeStyles-circle-3 MuiCircularProgress-circleStatic"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={19.5}
+          strokeWidth={5}
+          style={
+            Object {
+              "strokeDasharray": "122.522",
+              "strokeDashoffset": "91.892px",
+            }
+          }
+        />
+      </svg>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-9"
+  >
+    <span
+      className="sc-AxjAm fSFffI"
+    >
+      25%
+    </span>
+  </div>
+</div>
+`;
+
+exports[`CircularPercentageProgress secondary elements are OK 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-4"
+>
+  <div
+    className="MuiBox-root MuiBox-root-5"
+  >
+    <div
+      aria-valuenow={100}
+      className="MuiCircularProgress-root makeStyles-bottom-1 MuiCircularProgress-colorPrimary MuiCircularProgress-static"
+      role="progressbar"
+      style={
+        Object {
+          "height": 50,
+          "transform": "rotate(-90deg)",
+          "width": 50,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle MuiCircularProgress-circleStatic"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={19.5}
+          strokeWidth={5}
+          style={
+            Object {
+              "strokeDasharray": "122.522",
+              "strokeDashoffset": "0.000px",
+            }
+          }
+        />
+      </svg>
+    </div>
+    <div
+      aria-valuenow={25}
+      className="MuiCircularProgress-root makeStyles-top-2 MuiCircularProgress-colorSecondary MuiCircularProgress-static"
+      role="progressbar"
+      style={
+        Object {
+          "height": 50,
+          "transform": "rotate(-90deg)",
+          "width": 50,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle makeStyles-circle-3 MuiCircularProgress-circleStatic"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={19.5}
+          strokeWidth={5}
+          style={
+            Object {
+              "strokeDasharray": "122.522",
+              "strokeDashoffset": "91.892px",
+            }
+          }
+        />
+      </svg>
+    </div>
+  </div>
+  <div
+    className="MuiBox-root MuiBox-root-6"
+  >
+    <span
+      className="sc-AxjAm fSFffI"
+    >
+      25%
+    </span>
+  </div>
+</div>
+`;

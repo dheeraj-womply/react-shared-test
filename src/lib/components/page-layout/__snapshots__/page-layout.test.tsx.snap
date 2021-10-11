@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Layout 1`] = `
+<div
+  className="sc-AxjAm jThaSl"
+>
+  <header
+    className="sc-AxirZ kEYvjm"
+  >
+    <div
+      className="sc-AxgMl hieZL"
+    >
+      <img
+        alt="Womply Logo"
+        src="https://res.cloudinary.com/womply/image/upload/react-shared-components/womply-logo-red_tzbmeh_zqlcno.svg"
+      />
+    </div>
+  </header>
+  <main
+    className="sc-AxiKw eiakxi"
+  >
+    <div
+      className="sc-AxhUy fNfuCs"
+    >
+      Oops. Something went wrong.
+    </div>
+    <div
+      className="sc-AxhUy fNfuCs"
+    >
+      Please reload the page to try again.
+    </div>
+    <div
+      className="sc-AxhUy fNfuCs"
+    >
+      If this problem persists, submit a support ticket by visiting womply.com/contact-us.
+    </div>
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "flex-end",
+          "paddingBottom": 40,
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root makeStyles-root-1 MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+        disabled={false}
+        onBlur={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Try Again
+        </span>
+      </button>
+    </div>
+  </main>
+  <footer
+    className="sc-AxhCb ixqYhm"
+  >
+    <div
+      style={
+        Object {
+          "padding": "12px 32px",
+        }
+      }
+    >
+      Brought to you by Womply,  a San Francisco-based technology company.
+    </div>
+  </footer>
+</div>
+`;

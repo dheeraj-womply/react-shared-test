@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider Tabs Matches the snapshots renders correctly with multiple tab 1`] = `
+<div
+  className="sc-AxjAm gbNwSh"
+>
+  <div
+    className="sc-AxirZ kkPxXZ"
+    onScroll={[Function]}
+  >
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-0"
+        defaultChecked={true}
+        id="0"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="0"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          SMS
+        </span>
+      </label>
+    </div>
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-1"
+        defaultChecked={false}
+        id="1"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="1"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          Email
+        </span>
+      </label>
+    </div>
+    <span
+      className="sc-AxhUy hUEDRh"
+    />
+  </div>
+  <div
+    data-testid="slider-tabs-content"
+  >
+    <div>
+      SMS Tab Content
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider Tabs Matches the snapshots renders correctly with multiple tab and other selected tab 1`] = `
+<div
+  className="sc-AxjAm gbNwSh"
+>
+  <div
+    className="sc-AxirZ kkPxXZ"
+    onScroll={[Function]}
+  >
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-0"
+        defaultChecked={false}
+        id="0"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="0"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          SMS
+        </span>
+      </label>
+    </div>
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-1"
+        defaultChecked={true}
+        id="1"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="1"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          Email
+        </span>
+      </label>
+    </div>
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-2"
+        defaultChecked={false}
+        id="2"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="2"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          Slack
+        </span>
+      </label>
+    </div>
+    <span
+      className="sc-AxhUy hUEDRh"
+    />
+  </div>
+  <div
+    data-testid="slider-tabs-content"
+  >
+    <div>
+      Email Tab Content
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider Tabs Matches the snapshots renders correctly with single tab 1`] = `
+<div
+  className="sc-AxjAm gbNwSh"
+>
+  <div
+    className="sc-AxirZ kkPxXZ"
+    onScroll={[Function]}
+  >
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-0"
+        defaultChecked={true}
+        id="0"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="0"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          SMS
+        </span>
+      </label>
+    </div>
+    <span
+      className="sc-AxhUy hUEDRh"
+    />
+  </div>
+  <div
+    data-testid="slider-tabs-content"
+  >
+    <div>
+      SMS Tab Content
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider Tabs Matches the snapshots renders correctly with single tab and children 1`] = `
+<div
+  className="sc-AxjAm gbNwSh"
+>
+  <div
+    className="sc-AxirZ kkPxXZ"
+    onScroll={[Function]}
+  >
+    <div
+      className="sc-AxiKw dqSzmC"
+    >
+      <input
+        data-testid="input-0"
+        defaultChecked={true}
+        id="0"
+        name="tabs"
+        onClick={[Function]}
+        type="radio"
+      />
+      <label
+        className="sc-AxhCb fNUnNf"
+        htmlFor="0"
+      >
+        <span
+          className="sc-AxheI hTfIJe"
+        >
+          SMS
+        </span>
+      </label>
+    </div>
+    <span
+      className="sc-AxhUy hUEDRh"
+    />
+  </div>
+  <div
+    data-testid="slider-tabs-content"
+  >
+    <div>
+      Children
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Slider Tabs Matches the snapshots renders nothing with no data 1`] = `null`;

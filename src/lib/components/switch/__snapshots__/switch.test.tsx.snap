@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch testing Switch checked 1`] = `
+<span
+  className="MuiSwitch-root Component-root-1"
+>
+  <span
+    aria-disabled={false}
+    className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-7 MuiSwitch-switchBase Component-switchBase-2 MuiSwitch-colorSecondary PrivateSwitchBase-checked-8 Mui-checked Component-checked-5"
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={null}
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <input
+        checked={true}
+        className="PrivateSwitchBase-input-10 MuiSwitch-input"
+        disabled={false}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="MuiSwitch-thumb Component-thumb-3"
+      />
+    </span>
+  </span>
+  <span
+    className="MuiSwitch-track Component-track-4"
+  />
+</span>
+`;
+
+exports[`Switch testing Switch checked disabled 1`] = `
+<span
+  className="MuiSwitch-root Component-root-17 pendo-ref__auto-reply-switch"
+>
+  <span
+    aria-disabled={true}
+    className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-7 MuiSwitch-switchBase Component-switchBase-18 MuiSwitch-colorSecondary PrivateSwitchBase-checked-8 Mui-checked Component-checked-21 PrivateSwitchBase-disabled-9 Mui-disabled Mui-disabled Mui-disabled"
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <input
+        checked={true}
+        className="PrivateSwitchBase-input-10 MuiSwitch-input"
+        disabled={true}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="MuiSwitch-thumb Component-thumb-19"
+      />
+    </span>
+  </span>
+  <span
+    className="MuiSwitch-track Component-track-20"
+  />
+</span>
+`;
+
+exports[`Switch testing Switch unchecked 1`] = `
+<span
+  className="MuiSwitch-root Component-root-11"
+>
+  <span
+    aria-disabled={false}
+    className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-7 MuiSwitch-switchBase Component-switchBase-12 MuiSwitch-colorSecondary"
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={null}
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <input
+        checked={false}
+        className="PrivateSwitchBase-input-10 MuiSwitch-input"
+        disabled={false}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="MuiSwitch-thumb Component-thumb-13"
+      />
+    </span>
+  </span>
+  <span
+    className="MuiSwitch-track Component-track-14"
+  />
+</span>
+`;
+
+exports[`Switch testing Switch unchecked disabled 1`] = `
+<span
+  className="MuiSwitch-root Component-root-23 pendo-ref__auto-reply-switch"
+>
+  <span
+    aria-disabled={true}
+    className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-7 MuiSwitch-switchBase Component-switchBase-24 MuiSwitch-colorSecondary PrivateSwitchBase-disabled-9 Mui-disabled Mui-disabled Mui-disabled"
+    onBlur={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={-1}
+  >
+    <span
+      className="MuiIconButton-label"
+    >
+      <input
+        checked={false}
+        className="PrivateSwitchBase-input-10 MuiSwitch-input"
+        disabled={true}
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <span
+        className="MuiSwitch-thumb Component-thumb-25"
+      />
+    </span>
+  </span>
+  <span
+    className="MuiSwitch-track Component-track-26"
+  />
+</span>
+`;

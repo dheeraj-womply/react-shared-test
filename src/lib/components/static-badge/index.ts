@@ -1,0 +1,1 @@
+export { StaticBadge } from './ui-elements'

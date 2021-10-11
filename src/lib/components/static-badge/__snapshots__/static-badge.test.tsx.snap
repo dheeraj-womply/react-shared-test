@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Static Badge DOM elements are OK 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-3"
+>
+  <span
+    className="MuiBadge-root makeStyles-root-1 makeStyles-root-2"
+  >
+    <span
+      className="MuiBadge-badge MuiBadge-anchorOriginTopRightRectangle"
+    >
+      99+
+    </span>
+  </span>
+</div>
+`;
+
+exports[`Static Badge with bg color DOM elements are OK 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-5"
+>
+  <span
+    bgcolor="purple"
+    className="MuiBadge-root makeStyles-root-1 makeStyles-root-4"
+  >
+    <span
+      className="MuiBadge-badge MuiBadge-anchorOriginTopRightRectangle"
+    >
+      100
+    </span>
+  </span>
+</div>
+`;

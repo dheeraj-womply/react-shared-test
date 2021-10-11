@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Business Hours of operation component renders as expected with text only banner data and scale=1 1`] = `
+<div
+  className="sc-AxjAm iaFobs"
+  scale={1}
+>
+  <div
+    className="sc-AxjAm heGPby"
+  >
+    Now offering Delivery!
+  </div>
+  <div
+    className="sc-AxjAm gjUxoE"
+  >
+    We are excited to announce that you can now order from our menu for delivery. We can also provide orders for pickup. Give us a call or place your order online. We look forward to feeding you!
+  </div>
+</div>
+`;
+
+exports[`Business Hours of operation component renders as expected with text+code banner data and scale=0.5 1`] = `
+<div
+  className="sc-AxjAm dMDgJn"
+  scale={0.5}
+>
+  <div
+    className="sc-AxjAm fseFpO"
+  >
+    Get 50% off
+  </div>
+  <div
+    className="sc-AxjAm iJbpfP"
+  >
+    on Everything
+  </div>
+  <div
+    className="sc-AxjAm byVOPy"
+    onClick={[Function]}
+  >
+    Show Promo Code
+  </div>
+</div>
+`;

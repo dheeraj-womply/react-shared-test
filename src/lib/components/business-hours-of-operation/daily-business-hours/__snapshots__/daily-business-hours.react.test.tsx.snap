@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test snapshot for Daily Business Hours component when business is closed 1`] = `
+<div
+  className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+    color="rgba(0, 0, 0, 0.87)"
+    textalign="left"
+  >
+    Monday
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-10"
+        color="rgba(0, 0, 0, 0.87)"
+        textalign="center"
+      >
+        Closed
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+        onClick={[Function]}
+        style={
+          Object {
+            "cursor": "pointer",
+          }
+        }
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+          customcolor="rgba(0, 0, 0, 0.87)"
+          data-testid="edit-hours"
+          float="none"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test snapshot for Daily Business Hours component when business is open 1`] = `
+<div
+  className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+    color="rgba(0, 0, 0, 0.87)"
+    textalign="left"
+  >
+    Monday
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+            color="rgba(0, 0, 0, 0.87)"
+            textalign="center"
+          >
+            07:00 AM - 03:00 PM
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+        onClick={[Function]}
+        style={
+          Object {
+            "cursor": "pointer",
+          }
+        }
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+          customcolor="rgba(0, 0, 0, 0.87)"
+          data-testid="edit-hours"
+          float="none"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test snapshot for Daily Business Hours component when business is open but no time selected 1`] = `
+<div
+  className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+>
+  <div
+    className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+    color="rgba(0, 0, 0, 0.87)"
+    textalign="left"
+  >
+    Monday
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+            color="rgba(0, 0, 0, 0.87)"
+            textalign="center"
+          >
+             - 
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+        onClick={[Function]}
+        style={
+          Object {
+            "cursor": "pointer",
+          }
+        }
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+          customcolor="rgba(0, 0, 0, 0.87)"
+          data-testid="edit-hours"
+          float="none"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

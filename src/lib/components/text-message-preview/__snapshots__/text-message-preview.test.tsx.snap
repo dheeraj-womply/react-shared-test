@@ -1,0 +1,173 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Message Preview Tests renders correctly 1`] = `
+<div
+  className="sc-AxjAm hsRpzV"
+>
+  <div
+    className="sc-AxirZ hAYwjx"
+  >
+    <div
+      className="sc-AxiKw bHFHAv"
+    >
+      <div
+        className="sc-AxhCb bzbnNF"
+        data-testid="phone-time"
+      >
+        9:41
+      </div>
+      <div
+        className="sc-AxhUy iltBlB"
+      >
+        <img
+          alt="Signal Wifi Battery Icons"
+          src="https://res.cloudinary.com/womply/image/upload/react-shared-components/vitals_TextMsgPreview.svg"
+        />
+      </div>
+    </div>
+    <div
+      className="sc-AxgMl Oaocg"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        style={
+          Object {
+            "color": "#007AFF",
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+      <img
+        alt="Womply Logo"
+        src="https://res.cloudinary.com/womply/image/upload/react-shared-components/womply_TextMsgPreview.svg"
+      />
+      <img
+        alt="Info Icon"
+        src="https://res.cloudinary.com/womply/image/upload/react-shared-components/info_TextMsgPreview.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-AxheI fQSPAb"
+  >
+    <div
+      className="sc-AxmLO snzpf"
+      data-testid="message-time"
+    >
+      <span
+        className="sc-Axmtr drcKvm"
+      >
+        Tuesday
+      </span>
+       
+      9:41
+    </div>
+    <div
+      className="sc-fzozJi bXYqvA"
+      data-testid="message-0"
+    >
+      <div>
+        Fiesta Mexicana requests $160.95 for Dinner - Custom. Pay via
+         
+        <a
+          href="https://pay.xyz/fiestamexicana"
+        >
+          https://pay.xyz/fiestamexicana
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Text Message Preview Tests renders correctly with all props 1`] = `
+<div
+  className="sc-AxjAm hsRpzV"
+>
+  <div
+    className="sc-AxirZ hAYwjx"
+  >
+    <div
+      className="sc-AxiKw bHFHAv"
+    >
+      <div
+        className="sc-AxhCb bzbnNF"
+        data-testid="phone-time"
+      >
+        10:41
+      </div>
+      <div
+        className="sc-AxhUy iltBlB"
+      >
+        <img
+          alt="Signal Wifi Battery Icons"
+          src="https://res.cloudinary.com/womply/image/upload/react-shared-components/vitals_TextMsgPreview.svg"
+        />
+      </div>
+    </div>
+    <div
+      className="sc-AxgMl Oaocg"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        style={
+          Object {
+            "color": "#007AFF",
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+        />
+      </svg>
+      <img
+        alt="Womply Logo"
+        src="https://res.cloudinary.com/womply/image/upload/react-shared-components/womply_TextMsgPreview.svg"
+      />
+      <img
+        alt="Info Icon"
+        src="https://res.cloudinary.com/womply/image/upload/react-shared-components/info_TextMsgPreview.svg"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-AxheI fQSPAb"
+  >
+    <div
+      className="sc-AxmLO snzpf"
+      data-testid="message-time"
+    >
+      <span
+        className="sc-Axmtr drcKvm"
+      >
+        Sunday
+      </span>
+       
+      10:41
+    </div>
+    <div
+      className="sc-fzozJi bXYqvA"
+      data-testid="message-0"
+    >
+      <div>
+        Fiesta Mexicana requests $160.95 for Dinner - Custom. Pay via
+         
+        <a
+          href="https://pay.xyz/fiestamexicana"
+        >
+          https://pay.xyz/fiestamexicana
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

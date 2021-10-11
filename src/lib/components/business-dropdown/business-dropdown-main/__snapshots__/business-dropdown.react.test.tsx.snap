@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test snapshot for BusinessDropdown 1`] = `
+<div
+  className="sc-AxjAm AkoOq"
+>
+  <div
+    className="MuiFormControl-root makeStyles-formControl-1"
+  >
+    <div
+      className="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+      onClick={[Function]}
+    >
+      <div
+        aria-haspopup="listbox"
+        className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onMouseDown={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span>
+          AUTHENTIC PLASTER AND TIL: 1775 NORTHFORK LANE, LUCAS, TX 75002-0000
+        </span>
+      </div>
+      <input
+        aria-hidden={true}
+        className="MuiSelect-nativeInput"
+        onAnimationStart={[Function]}
+        onChange={[Function]}
+        required={false}
+        tabIndex={-1}
+        value={
+          Object {
+            "address": Object {
+              "address1": "1775 NORTHFORK LANE",
+              "address2": null,
+              "city": "LUCAS",
+              "state": "TX",
+              "zip": "75002-0000",
+            },
+            "analytics": Object {
+              "claimed_at": null,
+              "claimed_at_month": null,
+              "is_trial": false,
+              "sales_rep_id": null,
+              "trial_end_date": null,
+            },
+            "business_phone": "9726701028",
+            "business_source": "CREDIT_CARD_PROCESSOR",
+            "category": Object {
+              "id": 369,
+              "name": "Pools and Pool Supply Stores",
+            },
+            "coordinates": Object {
+              "latitude": null,
+              "longitude": null,
+            },
+            "email_settings": Object {
+              "monthly_business_summaries": false,
+              "reputation_alerts": false,
+              "weekly_business_summaries": false,
+              "weekly_competitor_summaries": false,
+            },
+            "id": 3996325,
+            "name": "AUTHENTIC PLASTER AND TIL",
+            "price": null,
+            "slug": "authentic-plaster-and-til-ccpm",
+            "website_url": null,
+          }
+        }
+      />
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root MuiSelect-icon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+`;

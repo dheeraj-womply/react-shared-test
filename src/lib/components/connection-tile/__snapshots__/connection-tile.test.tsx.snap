@@ -1,0 +1,233 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test snapshot for ConnectionTile Default 1`] = `
+<div
+  aria-describedby={null}
+  className="sc-AxjAm hqbWlt NOT_CONNECTED"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  title="Payments Hub"
+>
+  <div
+    className="sc-AxirZ cNfTwy"
+  >
+    <img
+      alt="Payments Hub"
+      className="sc-AxiKw kmAUpy"
+      src="https://res.cloudinary.com/womply/image/upload/flagship-app-ui/paymentshublogo_ki5jpz.png"
+    />
+  </div>
+  <div
+    className="sc-AxhCb eJJQKC"
+  >
+    <span
+      className="sc-AxhUy eYmAfL"
+    >
+      Payments Hub
+    </span>
+    <span
+      className="sc-AxheI chuiEK"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root arrow"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    className="sc-Axmtr dcNThd NOT_CONNECTED"
+  />
+</div>
+`;
+
+exports[`Test snapshot for ConnectionTile Default Without Icon 1`] = `
+<div
+  aria-describedby={null}
+  className="sc-AxjAm hqbWlt UNABLE_TO_CONNECT"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  title="Payscape"
+>
+  <div
+    className="sc-AxirZ cNfTwy"
+  >
+    <span
+      className="sc-AxgMl blgMiV"
+    >
+      Payscape
+    </span>
+    
+  </div>
+  <div
+    className="sc-AxhCb eJJQKC"
+  >
+    <span
+      className="sc-AxhUy eYmAfL"
+    >
+      Payscape
+    </span>
+    <span
+      className="sc-AxheI chuiEK"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root arrow"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    className="sc-Axmtr dcNThd UNABLE_TO_CONNECT"
+  />
+</div>
+`;
+
+exports[`Test snapshot for ConnectionTile Error 1`] = `
+<div
+  aria-describedby={null}
+  className="sc-AxjAm hqbWlt CONNECTED_INVALID"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  title="iAccess"
+>
+  <div
+    className="sc-AxirZ cNfTwy"
+  >
+    <img
+      alt="iAccess"
+      className="sc-AxiKw kmAUpy"
+      src="https://res.cloudinary.com/womply/image/upload/flagship-app-ui/iaccesslogo_loqjdg.png"
+    />
+  </div>
+  <div
+    className="sc-AxhCb eJJQKC"
+  >
+    <span
+      className="sc-AxhUy eYmAfL"
+    >
+      iAccess
+    </span>
+    <span
+      className="sc-AxheI chuiEK"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root arrow"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    className="sc-Axmtr dcNThd CONNECTED_INVALID"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <circle
+        cx="12"
+        cy="19"
+        r="2"
+      />
+      <path
+        d="M10 3h4v12h-4z"
+      />
+    </svg>
+  </div>
+</div>
+`;
+
+exports[`Test snapshot for ConnectionTile Success 1`] = `
+<div
+  aria-describedby={null}
+  className="sc-AxjAm hqbWlt CONNECTED_VALID"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  title="Worldpay"
+>
+  <div
+    className="sc-AxirZ cNfTwy"
+  >
+    <img
+      alt="Worldpay"
+      className="sc-AxiKw kmAUpy"
+      src="https://res.cloudinary.com/womply/image/upload/flagship-app-ui/worldpaylogo_tt2bwr.png"
+    />
+  </div>
+  <div
+    className="sc-AxhCb eJJQKC"
+  >
+    <span
+      className="sc-AxhUy eYmAfL"
+    >
+      Worldpay
+    </span>
+    <span
+      className="sc-AxheI chuiEK"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root arrow"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+        />
+      </svg>
+    </span>
+  </div>
+  <div
+    className="sc-Axmtr dcNThd CONNECTED_VALID"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"
+      />
+    </svg>
+  </div>
+</div>
+`;

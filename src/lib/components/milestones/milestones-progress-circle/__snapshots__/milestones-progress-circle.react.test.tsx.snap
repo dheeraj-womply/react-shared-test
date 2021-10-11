@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DOM elements are OK 1`] = `
+<div
+  className="sc-AxjAm qjMPV"
+  style={
+    Object {
+      "background": "linear-gradient(to bottom, #fbda61 11%, #f76b1c 31%)",
+    }
+  }
+>
+  <div
+    className="sc-AxirZ hrsOry"
+  >
+    11
+    %
+  </div>
+</div>
+`;

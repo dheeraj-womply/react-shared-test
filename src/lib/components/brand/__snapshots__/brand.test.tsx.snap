@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo DOM elements are OK 1`] = `
+<div
+  className="sc-AxjAm lgwZkj"
+>
+  <img
+    alt="Womply"
+    src="https://res.cloudinary.com/womply/image/upload/react-shared-components/womply_vt6xjk.png"
+  />
+</div>
+`;

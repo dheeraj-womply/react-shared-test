@@ -1,0 +1,865 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Business Hours of operation component renders as expected with data 1`] = `
+<div
+  className="sc-AxjAm kBuBUH"
+>
+  <div
+    className="MuiGrid-root makeStyles-paper-1 MuiGrid-item MuiGrid-grid-xs-12"
+    style={
+      Object {
+        "paddingLeft": 0,
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+        color="rgba(0, 0, 0, 0.87)"
+        textalign="left"
+      >
+        Monday
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container"
+            >
+              <div
+                className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                color="rgba(0, 0, 0, 0.87)"
+                textalign="center"
+              >
+                 - 
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+            onClick={[Function]}
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+              customcolor="rgba(0, 0, 0, 0.87)"
+              data-testid="edit-hours"
+              float="none"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiCollapse-container MuiCollapse-entered"
+      style={
+        Object {
+          "minHeight": "0px",
+        }
+      }
+    >
+      <div
+        className="MuiCollapse-wrapper"
+      >
+        <div
+          className="MuiCollapse-wrapperInner"
+        >
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Tuesday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Wednesday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Thursday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Friday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Saturday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Sunday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Business Hours of operation component renders as expected without data 1`] = `
+<div
+  className="sc-AxjAm kBuBUH"
+>
+  <div
+    className="MuiGrid-root makeStyles-paper-1 MuiGrid-item MuiGrid-grid-xs-12"
+    style={
+      Object {
+        "paddingLeft": 0,
+      }
+    }
+  >
+    <div
+      className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+    >
+      <div
+        className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+        color="rgba(0, 0, 0, 0.87)"
+        textalign="left"
+      >
+        Monday
+      </div>
+      <div
+        className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+          >
+            <div
+              className="MuiGrid-root MuiGrid-container"
+            >
+              <div
+                className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                color="rgba(0, 0, 0, 0.87)"
+                textalign="center"
+              >
+                 - 
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+            onClick={[Function]}
+            style={
+              Object {
+                "cursor": "pointer",
+              }
+            }
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+              customcolor="rgba(0, 0, 0, 0.87)"
+              data-testid="edit-hours"
+              float="none"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiCollapse-container MuiCollapse-entered"
+      style={
+        Object {
+          "minHeight": "0px",
+        }
+      }
+    >
+      <div
+        className="MuiCollapse-wrapper"
+      >
+        <div
+          className="MuiCollapse-wrapperInner"
+        >
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Tuesday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Wednesday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Thursday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Friday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Saturday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root sc-AxirZ lgjYw MuiGrid-container"
+          >
+            <div
+              className="MuiGrid-root sc-AxhCb eUHVRl MuiGrid-item MuiGrid-grid-xs-4"
+              color="rgba(0, 0, 0, 0.87)"
+              textalign="left"
+            >
+              Sunday
+            </div>
+            <div
+              className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+            >
+              <div
+                className="MuiGrid-root MuiGrid-container"
+              >
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-10"
+                >
+                  <div
+                    className="MuiGrid-root MuiGrid-container"
+                  >
+                    <div
+                      className="MuiGrid-root sc-AxhCb ihfzax MuiGrid-item MuiGrid-grid-xs-12"
+                      color="rgba(0, 0, 0, 0.87)"
+                      textalign="center"
+                    >
+                       - 
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+                  onClick={[Function]}
+                  style={
+                    Object {
+                      "cursor": "pointer",
+                    }
+                  }
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root sc-AxiKw cA-dXMf"
+                    customcolor="rgba(0, 0, 0, 0.87)"
+                    data-testid="edit-hours"
+                    float="none"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

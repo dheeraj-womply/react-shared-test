@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Panel DOM elements are OK 1`] = `
+<div
+  className="sc-AxjAm cNpNtW"
+>
+  <div
+    className="sc-AxirZ byOHfS"
+  >
+    Womply
+  </div>
+  <div
+    className="sc-AxiKw emfjN"
+  >
+    <p>
+      Womply
+    </p>
+  </div>
+</div>
+`;

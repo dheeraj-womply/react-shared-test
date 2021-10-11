@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content Card elements are OK 1`] = `
+<div
+  className="MuiPaper-root MuiCard-root sc-AxjAm QOswh MuiPaper-elevation0 MuiPaper-rounded"
+>
+  <p>
+    Womply
+  </p>
+</div>
+`;

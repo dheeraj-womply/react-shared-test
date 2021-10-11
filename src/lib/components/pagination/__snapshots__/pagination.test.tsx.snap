@@ -1,0 +1,702 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination with First & Last button hidden 1`] = `
+<nav
+  aria-label="pagination navigation"
+  className="MuiPagination-root"
+>
+  <ul
+    className="MuiPagination-ul"
+  >
+    <li>
+      <button
+        aria-label="Go to previous page"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-previous-2 makeStyles-rightBorder-7 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary Mui-disabled Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="button"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiPaginationItem-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li>
+      <button
+        aria-current="true"
+        aria-label="page 1"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-leftBorderRound-5 makeStyles-marginLeft-10  MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary Mui-selected"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        1
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 2"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        2
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 3"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        3
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 4"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        4
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 5"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        5
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+    <li>
+      <div
+        className="MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-ellipsis makeStyles-ellipsis-9"
+      >
+        …
+      </div>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 10"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-rightBorderRound-6 makeStyles-rightBorder-7 makeStyles-marginRight-11 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        10
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to next page"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-next-3 makeStyles-rightBorder-7 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiPaginationItem-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+          />
+        </svg>
+        <span
+          className="MuiTouchRipple-root"
+        />
+      </button>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Pagination with First, Last, Previous & Next button enabled 1`] = `
+<nav
+  aria-label="pagination navigation"
+  className="MuiPagination-root"
+>
+  <ul
+    className="MuiPagination-ul"
+  >
+    <li>
+      <div
+        aria-label="Go to first page"
+        className="makeStyles-firstLastButton-4"
+        color="primary"
+        disabled={true}
+        onClick={[Function]}
+        page={1}
+        selected={false}
+        shape="rounded"
+        size="medium"
+        type="first"
+        variant="outlined"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-text Mui-disabled Mui-disabled"
+          disabled={true}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={-1}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            First
+          </span>
+        </button>
+      </div>
+    </li>
+    <li>
+      <button
+        aria-label="Go to previous page"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-previous-2 makeStyles-rightBorder-7 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary Mui-disabled Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="button"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiPaginationItem-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li>
+      <button
+        aria-current="true"
+        aria-label="page 1"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-leftBorderRound-5 makeStyles-marginLeft-10  MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary Mui-selected"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        1
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 2"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        2
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 3"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        3
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 4"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        4
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 5"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        5
+      </button>
+    </li>
+    <li>
+      <div
+        className="MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-ellipsis makeStyles-ellipsis-9"
+      >
+        …
+      </div>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 10"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-rightBorderRound-6 makeStyles-rightBorder-7 makeStyles-marginRight-11 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        10
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to next page"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-next-3 makeStyles-rightBorder-7 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiPaginationItem-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+          />
+        </svg>
+      </button>
+    </li>
+    <li>
+      <div
+        aria-label="Go to last page"
+        className="makeStyles-firstLastButton-4"
+        color="primary"
+        disabled={false}
+        onClick={[Function]}
+        page={10}
+        selected={false}
+        shape="rounded"
+        size="medium"
+        type="last"
+        variant="outlined"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-text"
+          disabled={false}
+          onBlur={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            Last
+          </span>
+        </button>
+      </div>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Pagination with First, Last, Previous & Next button hidden 1`] = `
+<nav
+  aria-label="pagination navigation"
+  className="MuiPagination-root"
+>
+  <ul
+    className="MuiPagination-ul"
+  >
+    <li>
+      <button
+        aria-current="true"
+        aria-label="page 1"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-leftBorderRound-5 makeStyles-marginLeft-10  MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary Mui-selected"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        1
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 2"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        2
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 3"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        3
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 4"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        4
+      </button>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 5"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        5
+      </button>
+    </li>
+    <li>
+      <div
+        className="MuiPaginationItem-root makeStyles-root-1 MuiPaginationItem-ellipsis makeStyles-ellipsis-9"
+      >
+        …
+      </div>
+    </li>
+    <li>
+      <button
+        aria-label="Go to page 10"
+        className="MuiButtonBase-root MuiPaginationItem-root makeStyles-root-1 makeStyles-rightBorderRound-6 makeStyles-rightBorder-7 makeStyles-marginRight-11 MuiPaginationItem-page MuiPaginationItem-outlined MuiPaginationItem-rounded MuiPaginationItem-outlinedPrimary"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        10
+      </button>
+    </li>
+  </ul>
+</nav>
+`;
